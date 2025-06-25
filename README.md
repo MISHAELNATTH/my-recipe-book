@@ -4,7 +4,7 @@ A fully responsive React.js web application for managing your favorite recipes. 
 
 ### 🔗 Live Demo
 
-👉 [Open recipe app](https://mishaelnath.github.io/my-recipe-book)
+👉 [Open recipe app](https://mishaelnatth.github.io/my-recipe-book/)
 
 ---
 
