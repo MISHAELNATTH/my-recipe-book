@@ -40,9 +40,9 @@ my-recipe-book/
 │   └── 404.html
 ├── src/
 │   ├── components/
-│   │   └── Navbar.js, RecipeCard.js
+│   │   └── Topbar.js, RecipeCard.js
 │   ├── pages/
-│   │   └── HomePage.js, AddRecipe.js, RecipeDetails.js, FavoritesPage.js, NotFound.js
+│   │   └── HomePage.js, AddRecipe.js, RecipeDetails.js, FavoritesPage.js, NotFound.js, Layout.js
 │   ├── context/
 │   │   └── RecipeContext.js
 │   ├── data.js
