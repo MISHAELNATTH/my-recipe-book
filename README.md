@@ -1,35 +1,39 @@
-📖 My Recipe Book
-A fully responsive React.js web application for managing your favorite recipes. Users can add, view, edit, delete, and favorite recipes, with category filtering, dynamic routing, and a beautiful, unified design.
+## 📖 My Recipe Book
 
-🔗 Live Demo <n/>
-👉 https://mishaelnatth.github.io/my-recipe-book/ <n/>
+A fully responsive React.js web application for managing your favorite recipes. Users can **add**, **view**, **edit**, **delete**, and **favorite** recipes, with category filtering, dynamic routing, and a beautiful, unified design.
 
-📌 Features <n/>
-📝 Add, Edit, and Delete Recipes 
+### 🔗 Live Demo
 
-⭐ Mark Recipes as Favorites
+👉 [Open recipe app](https://mishaelnath.github.io/my-recipe-book)
 
-📂 Filter Recipes by Category
+---
 
-🔍 View Detailed Recipe Information
+### 📌 Features
 
-❌ 404 Page for Unknown Routes
+* 📝 **Add, Edit, and Delete Recipes**
+* ⭐ **Mark Recipes as Favorites**
+* 📂 **Filter Recipes by Category**
+* 🔍 **View Detailed Recipe Information**
+* ❌ **404 Page for Unknown Routes**
+* 🎨 **Unified Global CSS for Clean UI**
+* 💡 **Reusable Components & Clean Code Structure**
 
-🎨 Unified Global CSS for Clean UI
+---
 
-💡 Reusable Components & Clean Code Structure
+### 🛠️ Tech Stack
 
-🛠️ Tech Stack
-Frontend	Tools
-React.js	Functional Components, Hooks
-React Router	Page Routing
-Context API	State Management
-CSS	Centralized Design
+| Frontend         | Tools                        |
+| ---------------- | ---------------------------- |
+| **React.js**     | Functional Components, Hooks |
+| **React Router** | Page Routing                 |
+| **Context API**  | State Management             |
+| **CSS**          | Centralized Design           |
 
-📂 Folder Structure
-pgsql
-Copy
-Edit
+---
+
+### 📂 Folder Structure
+
+```
 my-recipe-book/
 ├── public/
 │   └── index.html
@@ -45,3 +49,18 @@ my-recipe-book/
 │   ├── App.js
 │   ├── App.css
 │   └── index.js
+```
+
+---
+
+### 🙌 Credits
+
+Created as a personal learning project to explore **React fundamentals**, **state management**, and **clean UI design**.
+
+---
+
+### 📫 Contact
+
+Feel free to reach out on [LinkedIn](www.linkedin.com/in/mishael-natth-viswanathan) or via GitHub if you'd like to collaborate or give feedback.
+
+---
