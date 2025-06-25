@@ -2,7 +2,7 @@
 A fully responsive React.js web application for managing your favorite recipes. Users can add, view, edit, delete, and favorite recipes, with category filtering, dynamic routing, and a beautiful, unified design.
 
 🔗 Live Demo
-👉 View the App
+👉 https://mishaelnatth.github.io/my-recipe-book/
 
 📌 Features
 📝 Add, Edit, and Delete Recipes
